@@ -1,4 +1,4 @@
-## Hi 👋🏼 I'm Aeestera!
+## Hi 👋🏼 I'm Aestera!
 
 
 
