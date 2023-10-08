@@ -3,7 +3,7 @@
 
 
 
-Studying **Cyber Security** usually like WEB HAKING
+Studying **Cyber Security** interested in WEB HAKING
 
 ### whoami
 - 🎓 Catholic University of Korea (2021.03 ~)
