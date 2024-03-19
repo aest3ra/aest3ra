@@ -5,10 +5,10 @@
 
 Studying **Cyber Security** interested in WEB HAKING
 
-### whoami
-- 🎓 **Catholic University of Korea** (2021.03 ~)
-- 😸 Member Of **CAT-Security** (2021.03 ~)
-- ⚓️ R.O.K Navy - **Cyber Operation Center** (2022.12 ~ 2024.8)
+### about me
+- 🎓 **Catholic University of Korea**
+- 😸 Member Of **CAT-Security**
+- ⚓️ R.O.K Navy - **Cyber Operation Center**
 
 
 ### find 'aestera'
