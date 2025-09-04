@@ -1,5 +1,3 @@
-studying Cyber Security interested in ⚔️ **Offensive Security** ⚔️
-  
 ```
  . _  .    .__  .  .  __,--'                 
   (_)    ' /__\ __,--'                       
